@@ -32,8 +32,7 @@ FROM customers;
 -- Above average
 SELECT *
 FROM customers
-WHERE creditLimit > (SELECT AVG(creditLimit)
-					 FROM customers)
+WHERE creditLimit > (SELECT AVG(creditLimit) FROM customers)
 ORDER BY creditLimit;
 
 -- Customers and Credit Limit > 0
