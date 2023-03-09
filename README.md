@@ -1,6 +1,16 @@
 # Customer-Database-Analysis
 
 
+## MySQL:
+
+A series of queries extracting information from the MySQL database.
+
+## Power BI:
+
+Some data exploration using Power BI.
+
+## K-Means:
+
 
 ## References:
 
