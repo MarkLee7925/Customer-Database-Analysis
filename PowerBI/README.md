@@ -1,8 +1,8 @@
 ## Customer Orders
 
-Number of days early per shipment, order status and order number financial information.
+Number of days early per shipment, order status and order number account information.
 
-![PowerBI-CustomerOrders](https://user-images.githubusercontent.com/59748085/224182776-93f2d0e8-a8d6-4659-89ea-fd32b993583f.JPG)
+![PowerBI-CustomerOrders](https://user-images.githubusercontent.com/59748085/224187280-2e8ff501-1318-498c-954e-44b4c6801bc2.JPG)
 
 ## Customers
 
