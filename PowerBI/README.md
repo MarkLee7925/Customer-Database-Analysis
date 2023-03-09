@@ -22,7 +22,7 @@ Total quantity, amount ordered and amount left per product line.
 
 ![PowerBI-ProdLine](https://user-images.githubusercontent.com/59748085/224182824-c1d56df8-9694-4a5f-add7-7a33503afebb.JPG)
 
-# Produce Scale
+## Produce Scale
 
 Total quantity, amount ordered and amount left per product scale.
 
