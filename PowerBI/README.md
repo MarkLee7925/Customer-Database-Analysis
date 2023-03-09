@@ -14,7 +14,7 @@ Customer account information and number of customers per country.
 
 Minimum, average and maximum prices per order line number and product line.
 
-![PowerBI-OrderPrices](https://user-images.githubusercontent.com/59748085/224182804-7b3ca22a-debb-4212-a1c6-55218b66c924.JPG)
+![PowerBI-OrderPrices](https://user-images.githubusercontent.com/59748085/224186516-165bccaa-3333-4633-952e-01c467972de3.JPG)
 
 ## Product Line
 
