@@ -1,9 +1,9 @@
 # Customer-Database-Analysis
 
 
-## MySQL:
+## Queries:
 
-A series of queries extracting information from the MySQL database.
+A series of queries extracting information from the customer MySQL database.
 
 ## Power BI:
 
