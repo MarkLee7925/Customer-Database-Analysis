@@ -8,7 +8,7 @@ Number of days early per shipment, order status and order number account informa
 
 Customer account information and number of customers per country.
 
-![PowerBI-Customers](https://user-images.githubusercontent.com/59748085/224183311-202bff3b-7ba9-41a3-a9a8-4200972bd74d.JPG)
+![PowerBI-Customers](https://user-images.githubusercontent.com/59748085/224188415-ebfcab4e-4e43-4136-ad09-58e4b351bd5f.JPG)
 
 ## Order Prices
 
