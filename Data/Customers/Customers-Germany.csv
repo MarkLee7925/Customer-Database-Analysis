@@ -1,0 +1,14 @@
+customerNumber,customerName,contactLastName,contactFirstName,phone,addressLine1,addressLine2,city,state,postalCode,country,salesRepEmployeeNumber,creditLimit
+128,"Blauer See Auto, Co.",Keitel,Roland,"+49 69 66 90 2555","Lyonerstr. 34",NULL,Frankfurt,NULL,60528,Germany,1504,59700.00
+223,"Natürlich Autos",Kloss,"Horst ",0372-555188,"Taucherstraße 10",NULL,Cunewalde,NULL,01307,Germany,NULL,0.00
+247,"Messner Shopping Network",Messner,"Renate ",069-0555984,"Magazinweg 7",NULL,Frankfurt,NULL,60528,Germany,NULL,0.00
+259,"Toms Spezialitäten, Ltd",Pfalzheim,"Henriette ",0221-5554327,"Mehrheimerstr. 369",NULL,Köln,NULL,50739,Germany,1504,120400.00
+273,"Franken Gifts, Co",Franken,"Peter ",089-0877555,"Berliner Platz 43",NULL,München,NULL,80805,Germany,NULL,0.00
+307,"Der Hund Imports",Andersen,Mel,030-0074555,"Obere Str. 57",NULL,Berlin,NULL,12209,Germany,NULL,0.00
+335,"Cramer Spezialitäten, Ltd",Cramer,"Philip ",0555-09555,"Maubelstr. 90",NULL,Brandenburg,NULL,14776,Germany,NULL,0.00
+361,"Kommission Auto",Josephs,Karin,0251-555259,"Luisenstr. 48",NULL,Münster,NULL,44087,Germany,NULL,0.00
+409,"Stuttgart Collectable Exchange",Müller,"Rita ",0711-555361,"Adenauerallee 900",NULL,Stuttgart,NULL,70563,Germany,NULL,0.00
+415,"Bavarian Collectables Imports, Co.",Donnermeyer,Michael," +49 89 61 08 9555","Hansastr. 15",NULL,Munich,NULL,80686,Germany,1504,77000.00
+443,"Feuer Online Stores, Inc",Feuer,"Alexander ",0342-555176,"Heerstr. 22",NULL,Leipzig,NULL,04179,Germany,NULL,0.00
+459,"Warburg Exchange",Ottlieb,"Sven ",0241-039123,"Walserweg 21",NULL,Aachen,NULL,52066,Germany,NULL,0.00
+477,"Mit Vergnügen & Co.",Moos,"Hanna ",0621-08555,"Forsterstr. 57",NULL,Mannheim,NULL,68306,Germany,NULL,0.00

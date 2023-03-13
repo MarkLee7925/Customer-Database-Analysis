@@ -1,0 +1,8 @@
+productLine,AmountOrdered,MinPrice,AvgPrice,MaxPrice,Std
+"Classic Cars",35582,28.64,108.00,214.30,41.85
+Motorcycles,12778,32.99,87.32,193.66,35.78
+Planes,11872,39.73,80.33,157.69,24.83
+Ships,8532,43.68,77.75,122.89,17.71
+Trains,2818,46.86,67.14,100.84,16.77
+"Trucks and Buses",11001,43.29,92.71,136.67,25.98
+"Vintage Cars",22933,26.55,78.36,168.30,33.45
