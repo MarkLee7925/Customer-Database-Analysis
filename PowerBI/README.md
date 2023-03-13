@@ -22,7 +22,7 @@ Minimum, average and maximum prices per order line number and product line.
 
 Total quantity, amount ordered and amount left per product line.
 
-![PowerBI-ProdLine](https://user-images.githubusercontent.com/59748085/224187749-5c781a8b-ef43-4136-8bf0-6faa06434683.JPG)
+![PowerBI-ProdLine](https://user-images.githubusercontent.com/59748085/224729861-bad3ec50-9a52-4927-a6ba-d8179fecab3e.JPG)
 
 ## Produce Scale
 
