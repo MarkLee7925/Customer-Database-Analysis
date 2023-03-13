@@ -2,9 +2,11 @@
 
 An anaylsis project working with the Classic Models relational database. 
 
-## Database:
+## Database and MySQL queries:
 
-All the data was retrieved from the Classic Models relational database via MySQL queries. Below is the schema diagram (overview) of the database used in this project:
+All the data was retrieved from the Classic Models relational database via MySQL queries.
+
+Below is the schema diagram (overview) of the database used in this project:
 
 ![CDAschema](https://user-images.githubusercontent.com/59748085/224730725-a159e10c-604a-428b-80ed-6531ac4e6fe1.JPG)
 
