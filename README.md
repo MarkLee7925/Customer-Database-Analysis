@@ -4,7 +4,7 @@ An anaylsis project working with the Classic Models relational database.
 
 ## Database and MySQL queries:
 
-All the data was retrieved from the Classic Models relational database via MySQL queries.
+All the data was retrieved from the Classic Models relational database via MySQL queries and are located in the "Data" folder.
 
 Below is the schema diagram (overview) of the database used in this project:
 
