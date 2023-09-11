@@ -22,7 +22,7 @@ With Google Colab, the main benefit is that Python scripts and results obtained 
 
 ## K-Means:
 
-K-Means Clustering is arguably the most popular Unsupervised Learning algorithm employed in the industry. The aim is to organize the data into categories or groups that are not already pre-determined. All results obtained can be found in the KMeans folder.
+K-Means Clustering is arguably the most popular Unsupervised Learning algorithm employed in the industry. The aim is to organize the data into categories or groups that are not already pre-determined. All results obtained are located in the KMeans folder.
 
 ## References:
 
