@@ -1,6 +1,6 @@
 # Customer-Database-Analysis
 
-An analysis project working with the Classic Models relational database. The objective is to categorize 2,800+ customer orders from an online retailer. This was achieved using proven Unsupervised Learning techniques. In practice, the results obtained can be used as an aid for developing effective marketing strategies, data organization and future business/e-commerce projects.
+An analysis project working with the Classic Models relational database. The objective is to categorize 2,800+ customer orders and 100+ unique products from an online retailer. This was achieved using proven Unsupervised Learning techniques. In practice, the results obtained can be used as an aid for developing effective marketing strategies, data organization and future business/e-commerce projects.
 
 ## Database and MySQL queries:
 
