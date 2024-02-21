@@ -1,6 +1,6 @@
 # Customer-Database-Analysis
 
-An analysis project working with the Classic Models relational database. The objective is to categorize 2,800+ customer orders and 100+ unique products from an online retailer. This was achieved using proven Unsupervised Learning techniques. In practice, the results obtained can be used as an aid for developing effective marketing strategies, data organization and future business/e-commerce projects.
+An analysis project working with the Classic Models relational database. The objective is to categorize the sales trends of 2,800+ customer orders and 100+ unique products from an online retailer. This was achieved using proven Unsupervised Machine Learning Learning techniques. In practice, the results obtained can be used as an aid for developing effective marketing strategies, data organization and future business/e-commerce projects.
 
 ## Database and MySQL queries:
 
@@ -18,7 +18,7 @@ To gain better insights into data trends and patterns, data exploration was perf
 
 The main rationale for Power BI is that using it requires no prior coding knowledge and it is a highly ubiquitous industry tool. This makes it easy to present data trends and insights to a wide audience (particularly those with a non-technical background). Power BI can also be highly integrated with other Data Analytics software and tools such as Microsoft SharePoint. The project dashboard can be found in the "PowerBI" folder in this repository.
 
-With Google Colab, the main benefit is that Python scripts and results obtained can be shared and distributed across multiple parties similar to various Google Suite Apps (e.g: Google Docs, Sheets, Slides, etc...). Also, many popular Machine Learning (ML) libraries and frameworks such as NumPy and TensorFlow are already installed; the user does not need to install anything on their PC.
+With Google Colab, the main benefit is that Python scripts and results obtained can be shared and distributed across multiple parties similar to various Google Suite Apps (e.g.: Google Docs, Sheets, Slides, etc...). Also, many popular Machine Learning (ML) libraries and frameworks such as NumPy and TensorFlow are already installed; the user does not need to install anything on their PC.
 
 ## K-Means:
 
