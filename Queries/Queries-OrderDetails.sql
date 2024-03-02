@@ -44,7 +44,7 @@ ORDER BY orderNumber ASC;
 -- Quantity ordered and price each
 SELECT orderNumber,
 	quantityOrdered,
-    priceEach
+    	priceEach
 FROM orderdetails
 ORDER BY orderLineNumber ASC;
 
